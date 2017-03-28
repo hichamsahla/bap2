@@ -2,7 +2,7 @@
 $fruit = isset($_POST['fruit']) ? $_POST['fruit'] : null;
 switch ($fruit) {
 
-	case 'apple':
+	case 'banana': //jgkgk wijziging
 		echo "fruit is apple <img src='images/appel.jpg' alt='fruit'>";
 		break;
 
